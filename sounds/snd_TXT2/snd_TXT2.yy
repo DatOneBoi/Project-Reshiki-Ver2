@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_TXT2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":3,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.7142857,
+  "exportDir":"",
+  "name":"snd_TXT2",
+  "parent":{
+    "name":"Menu & Dialogue System",
+    "path":"folders/Menu & Dialogue System.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_TXT2.wav",
+  "volume":1.0,
+}

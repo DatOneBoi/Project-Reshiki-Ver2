@@ -1,0 +1,1 @@
+NewEncounter([global.enemies.Spaniard, global.enemies.Spaniard],spr_BattleBG);

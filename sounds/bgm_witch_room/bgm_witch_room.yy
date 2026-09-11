@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"bgm_witch_room",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":41.759636,
+  "exportDir":"",
+  "name":"bgm_witch_room",
+  "parent":{
+    "name":"Chapter1_Rooms",
+    "path":"folders/Chapter1_Rooms.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_witch_room.mp3",
+  "volume":1.0,
+}
